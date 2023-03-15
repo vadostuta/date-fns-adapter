@@ -1,0 +1,14 @@
+# Use the latest version of npm
+registry=https://registry.npmjs.org/
+always-auth=true
+
+# Save packages as dependencies by default
+save=true
+save-exact=true
+
+# Use a specific Node.js version
+engine-strict=true
+engine-node=14.17.5
+
+# Set the default log level to 'verbose'
+loglevel=verbose
